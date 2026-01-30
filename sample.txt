@@ -1,0 +1,16 @@
+# Sample File
+
+This is a sample file for testing push events.
+
+You can modify this file to trigger webhook events:
+- Edit and commit to test push events
+- Create branches from here to test pull requests
+- Merge branches to test merge events
+
+## Example Changes
+
+1. Add a new line
+2. Modify existing content
+3. Create new files
+
+Every commit and push will trigger a webhook to your Flask application!
